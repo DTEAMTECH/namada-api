@@ -1,0 +1,5 @@
+cache = "./data"
+port = 3000
+# 10 minutes
+cache_interval = 600000
+rpc = "https://rpc.knowable.run:443"
