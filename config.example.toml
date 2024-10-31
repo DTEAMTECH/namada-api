@@ -2,4 +2,5 @@ cache = "./data"
 port = 3000
 # 10 minutes
 cache_interval = 600000
-rpc = "https://rpc.knowable.run:443"
+rpc = "https://rpc.namada.testnet.dteam.tech:443"
+addressbook_url = 'https://download.dteam.tech/namada/testnet/addrbook'
